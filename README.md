@@ -1,16 +1,4 @@
-# fashion
+# T-Shirts Store UI
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![82](https://github.com/JunaidJameel/T-Shirt-Store-UI/assets/109211380/42bb7218-1646-4511-97d5-6b0aa255240d)
